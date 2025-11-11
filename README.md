@@ -61,7 +61,7 @@ int main() {
 
 ```
 
-##OUTPUT
+## OUTPUT
 
 <img width="1315" height="391" alt="image" src="https://github.com/user-attachments/assets/9a26f3dd-458e-4428-80b7-d888519f8a99" />
 
@@ -113,7 +113,7 @@ int main() {
 
 ```
 
-##OUTPUT
+## OUTPUT
 
 <img width="1302" height="688" alt="image" src="https://github.com/user-attachments/assets/be5dc49f-2e9a-4822-97c8-10521178d1c6" />
 
