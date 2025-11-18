@@ -1,4 +1,4 @@
-/
+
 //C Program to execute Linux system commands using Linux API system calls exec() family
 #include <stdio.h>
 #include <stdlib.h>
@@ -29,4 +29,4 @@ int main() {
     return 0;
 }
 
-/C Program to create new process using Linux API system calls fork() and exit()
+
